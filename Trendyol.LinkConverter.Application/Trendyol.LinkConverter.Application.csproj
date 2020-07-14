@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Trendyol.LinkConverter.Domain\Trendyol.LinkConverter.Domain.csproj" />
+    <ProjectReference Include="..\Trendyol.LinkConverter.EntityFramework\Trendyol.LinkConverter.EntityFramework.csproj" />
+  </ItemGroup>
+
+</Project>

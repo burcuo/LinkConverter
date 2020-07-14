@@ -1,0 +1,14 @@
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.deps.json
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.dll
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.pdb
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.dll
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.EntityFramework.dll
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.pdb
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.EntityFramework.pdb
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.csprojAssemblyReference.cache
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.AssemblyInfoInputs.cache
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.AssemblyInfo.cs
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.csproj.CoreCompileInputs.cache
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.csproj.CopyComplete
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.dll
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.pdb

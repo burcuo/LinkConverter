@@ -1,0 +1,12 @@
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.deps.json
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.dll
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.pdb
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.dll
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.pdb
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.csprojAssemblyReference.cache
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.AssemblyInfoInputs.cache
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.AssemblyInfo.cs
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.csproj.CoreCompileInputs.cache
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.csproj.CopyComplete
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.dll
+C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Core\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Business.pdb
