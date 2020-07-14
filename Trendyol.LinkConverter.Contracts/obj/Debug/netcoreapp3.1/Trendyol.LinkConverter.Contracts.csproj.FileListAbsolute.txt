@@ -10,3 +10,15 @@ C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Contrac
 C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.csproj.CopyComplete
 C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.dll
 C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.pdb
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.deps.json
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.dll
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.pdb
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.dll
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.pdb
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.csprojAssemblyReference.cache
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.AssemblyInfoInputs.cache
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.AssemblyInfo.cs
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.csproj.CoreCompileInputs.cache
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.csproj.CopyComplete
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.dll
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Contracts\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Contracts.pdb

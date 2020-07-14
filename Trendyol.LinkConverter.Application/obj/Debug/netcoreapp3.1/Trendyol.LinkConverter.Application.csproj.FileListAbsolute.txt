@@ -12,3 +12,17 @@ C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Applica
 C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.csproj.CopyComplete
 C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.dll
 C:\Users\burcu\source\repos\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.pdb
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.deps.json
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.dll
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.pdb
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.dll
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.EntityFramework.dll
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.Domain.pdb
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\bin\Debug\netcoreapp3.1\Trendyol.LinkConverter.EntityFramework.pdb
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.csprojAssemblyReference.cache
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.AssemblyInfoInputs.cache
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.AssemblyInfo.cs
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.csproj.CopyComplete
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.dll
+D:\MyProjects\TrendyolLinkConverter\Trendyol.LinkConverter.Application\obj\Debug\netcoreapp3.1\Trendyol.LinkConverter.Application.pdb

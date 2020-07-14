@@ -1,37 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj": {}
+    "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj": {
+    "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj",
+        "projectUniqueName": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj",
         "projectName": "Trendyol.LinkConverter.Application",
-        "projectPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj",
-        "packagesPath": "C:\\Users\\burcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\obj\\",
+        "projectPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\Trendyol.LinkConverter.Application.csproj",
+        "packagesPath": "C:\\Users\\burcu.ozkan\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\burcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burcu.ozkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj": {
-                "projectPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj"
+              "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj"
               },
-              "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj"
+              "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj": {
+                "projectPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj"
               }
             }
           }
@@ -59,28 +61,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj": {
+    "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj",
+        "projectUniqueName": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj",
         "projectName": "Trendyol.LinkConverter.Domain",
-        "projectPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj",
-        "packagesPath": "C:\\Users\\burcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\obj\\",
+        "projectPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\Trendyol.LinkConverter.Domain.csproj",
+        "packagesPath": "C:\\Users\\burcu.ozkan\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\burcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burcu.ozkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,28 +115,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj": {
+    "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj",
+        "projectUniqueName": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj",
         "projectName": "Trendyol.LinkConverter.EntityFramework",
-        "projectPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj",
-        "packagesPath": "C:\\Users\\burcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burcu\\source\\repos\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\obj\\",
+        "projectPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\Trendyol.LinkConverter.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\burcu.ozkan\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\TrendyolLinkConverter\\Trendyol.LinkConverter.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\burcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burcu.ozkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -169,7 +175,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
